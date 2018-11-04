@@ -1,0 +1,18 @@
+type	EN	RU	ES	PT	FR	DE	IT	JP	KR	AR	TR	VI	NL	HE	ID	PL	UA
+Date_1	{MM_1_type1} {DD_1}, {YYYY_1}	{DD_1} {MM_1_type1} {YYYY_1} г.															
+Date_2	{DD_1}th of {MM_1_type1}	{DD_1} {MM_1_type1}															
+Date_3	{MM_1_type2} {DD_1}	{DD_1} {MM_1_type1}															
+Date_4	{MM_1_type1} {DD_1} to {DD_2}, {YYYY_1}	С {DD_1} по {DD_2} {MM_1_type1} {YYYY_1} г.															
+Date_5	From {MM_1_type1} {DD_1} to {MM_2_type1} {DD_2}, {YYYY_1}	С {DD_1} {MM_1_type1} по {DD_2} {MM_2_type1} {YYYY_1} г.															
+Date_6	{MM_1_type1} {DD_1} to {DD_2}, {YYYY_1}	С {DD_1} по {DD_2} {MM_1_type1} {YYYY_1} г.															
+Date_7	From {MM_1_type1} {DD_1} to {MM_2_type1} {DD_2}	С {DD_1} {MM_1_type1} по {DD_2} {MM_2_type1} {YYYY_1} г.															
+Date_8	{MM_1_type2}. {DD_1} — {MM_2_type2}. {DD_2}	{DD_1} {MM_1_type2} — {DD_2} {MM_2_type2}															
+Date_9	{DD_1}-{DD_2} {MM_1_type2}	{DD_1}-{DD_2} {MM_1_type2}															
+Date_10	From {MM_1_type1} {DD_1}, {YYYY_1} to {MM_2_type1} {DD_2}, {YYYY_2}	С {DD_1} {MM_1_type1} {YYYY_1} г. по {DD_2} {MM_2_type1} {YYYY_2} г.															
+Date_11	{DD_1} {MM_1_type2} {YYYY_1} — {DD_2} {MM_2_type2} {YYYY_2}	{DD_1} {MM_1_type2} {YYYY_1} — {DD_2} {MM_2_type2} {YYYY_2}															
+Date_12	{MM_1_type1} {DD_1} at {hh_1}:{mm_1}	{DD_1} {MM_1_type1} в {hh_1}:{mm_1}															
+Date_13	{MM_1_type1} {DD_1} from {hh_1}:{mm_1} to {hh_2}:{mm_2}	{DD_1} {MM_1_type1} с {hh_1}:{mm_2} до {hh_2}:{mm_2}															
+Date_14	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_1} {MM_1_type1} {hh_2}:{mm_2}															
+Date_15	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_2} {MM_2_type1} {hh_2}:{mm_2}															
+Date_16	{DD_1}.{MM_1_type3} at {hh_1}:{mm_1}	{DD_1}.{MM_1_type3} в {hh_1}:{mm_1}															
+Date_17	From {MM_1_type3}/{DD_1} {hh_1}:{mm_1} to {MM_1_type3}/{DD_2} {hh_2}:{mm_2}	С {DD_1}.{MM_1} {hh_1}:{mm_1} по {DD_2}.{MM_2} {hh_2}:{mm_2}															
