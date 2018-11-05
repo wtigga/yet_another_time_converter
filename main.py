@@ -24,7 +24,7 @@ def read_template(filename):
     return sorted_templates
 
 
-months = read_template('./localized/months_type1enru.csv')
+months = read_template('./localized/months_type1.csv')
 templates = read_template('./localized/templates.csv')
 
 
