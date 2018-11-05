@@ -1,13 +1,13 @@
-month	EN	RU	ES	PT	FR	DE	IT	JP	KR	AR	TR	VI	NL	HE	ID	PL	UA
-01	January	января	enero	Janeiro	janvier	. Januar	gennaio	1月			Ocak		januari		Januari	stycznia	січня
-02	February	февраля	febrero	Fevereiro	février	Februar	febbraio	2月			Şubat		februari		Februari	lutego	лютого
-03	March	марта	marzo	Março	mars	März	marzo	3月			Mart		maart		Maret	marca	березня
-04	April	апреля	abril	Abril	avril	April	aprile	4月			Nisan		april		April	kwietnia	квітня
-05	May	мая	mayo	Maio	mai	Mai	maggio	5月			Mayıs		mei		Mei	maja	травня
-06	June	июня	junio	Junho	juin	Juni	giugno	6月			Haziran		juni		Juni	czerwca	червня
-07	July	июля	julio	Julho	juillet	Juli	luglio	7月			Temmuz		juli		Juli	lipca	липня
-08	August	августа	agosto	Agosto	août	August	agosto	8月			Ağustos		augustus		Agustus	sierpnia	серпня
-09	September	сентября	septiembre	Setembro	septembre	September	settembre	9月			Eylül		september		September	września	вересня
-10	October	октября	octubre	Outubro	octobre	Oktober	ottobre	10月			Ekim		oktober		Oktober	października	жовтня
-11	November	ноября	noviembre	Novembro	novembre	November	novembre	11月			Kasım		november		November	listopada	листопада
-12	December	декабря	diciembre	Dezembro	décembre	Dezember	dicembre	12月			Aralık		december		Desember	grudnia	грудня
+month	EN	RU	ES	PT	FR	DE	IT	JP	TR	NL	ID	PL	UA
+01	January	января	enero	Janeiro	janvier	. Januar	gennaio	1月	Ocak	januari	Januari	stycznia	січня
+02	February	февраля	febrero	Fevereiro	février	Februar	febbraio	2月	Şubat	februari	Februari	lutego	лютого
+03	March	марта	marzo	Março	mars	März	marzo	3月	Mart	maart	Maret	marca	березня
+04	April	апреля	abril	Abril	avril	April	aprile	4月	Nisan	april	April	kwietnia	квітня
+05	May	мая	mayo	Maio	mai	Mai	maggio	5月	Mayıs	mei	Mei	maja	травня
+06	June	июня	junio	Junho	juin	Juni	giugno	6月	Haziran	juni	Juni	czerwca	червня
+07	July	июля	julio	Julho	juillet	Juli	luglio	7月	Temmuz	juli	Juli	lipca	липня
+08	August	августа	agosto	Agosto	août	August	agosto	8月	Ağustos	augustus	Agustus	sierpnia	серпня
+09	September	сентября	septiembre	Setembro	septembre	September	settembre	9月	Eylül	september	September	września	вересня
+10	October	октября	octubre	Outubro	octobre	Oktober	ottobre	10月	Ekim	oktober	Oktober	października	жовтня
+11	November	ноября	noviembre	Novembro	novembre	November	novembre	11月	Kasım	november	November	listopada	листопада
+12	December	декабря	diciembre	Dezembro	décembre	Dezember	dicembre	12月	Aralık	december	Desember	grudnia	грудня
