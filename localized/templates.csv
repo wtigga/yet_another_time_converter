@@ -12,7 +12,7 @@ type	EN	RU
 11	{DD_1} {MM_1_type2} {YYYY_1} — {DD_2} {MM_2_type2} {YYYY_2}	{DD_1} {MM_1_type2} {YYYY_1} — {DD_2} {MM_2_type2} {YYYY_2}
 12	{MM_1_type1} {DD_1} at {hh_1}:{mm_1}	{DD_1} {MM_1_type1} в {hh_1}:{mm_1}
 13	{MM_1_type1} {DD_1} from {hh_1}:{mm_1} to {hh_2}:{mm_2}	{DD_1} {MM_1_type1} с {hh_1}:{mm_2} до {hh_2}:{mm_2}
-14	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_1} {MM_1_type1} {hh_2}:{mm_2}
+14	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_2} {MM_2_type1} {hh_2}:{mm_2}
 15	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_2} {MM_2_type1} {hh_2}:{mm_2}
 16	{DD_1}.{MM_1_type3} at {hh_1}:{mm_1}	{DD_1}.{MM_1_type3} в {hh_1}:{mm_1}
 17	From {MM_1_type3}/{DD_1} {hh_1}:{mm_1} to {MM_1_type3}/{DD_2} {hh_2}:{mm_2}	С {DD_1}.{MM_1} {hh_1}:{mm_1} по {DD_2}.{MM_2} {hh_2}:{mm_2}
