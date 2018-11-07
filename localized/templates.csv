@@ -1,18 +1,18 @@
-type	EN	RU
-1	{MM_1_type1} {DD_1}, {YYYY_1}	{DD_1} {MM_1_type1} {YYYY_1} г.
-2	{DD_1}th of {MM_1_type1}	{DD_1} {MM_1_type1}
-3	{MM_1_type2} {DD_1}	{DD_1} {MM_1_type1}
-4	{MM_1_type1} {DD_1} to {DD_2}, {YYYY_1}	С {DD_1} по {DD_2} {MM_1_type1} {YYYY_1} г.
-5	From {MM_1_type1} {DD_1} to {MM_2_type1} {DD_2}, {YYYY_1}	С {DD_1} {MM_1_type1} по {DD_2} {MM_2_type1} {YYYY_1} г.
-6	{MM_1_type1} {DD_1} to {DD_2}, {YYYY_1}	С {DD_1} по {DD_2} {MM_1_type1} {YYYY_1} г.
-7	From {MM_1_type1} {DD_1} to {MM_2_type1} {DD_2}	С {DD_1} {MM_1_type1} по {DD_2} {MM_2_type1} {YYYY_1} г.
-8	{MM_1_type2}. {DD_1} — {MM_2_type2}. {DD_2}	{DD_1} {MM_1_type2} — {DD_2} {MM_2_type2}
-9	{DD_1}-{DD_2} {MM_1_type2}	{DD_1}-{DD_2} {MM_1_type2}
-10	From {MM_1_type1} {DD_1}, {YYYY_1} to {MM_2_type1} {DD_2}, {YYYY_2}	С {DD_1} {MM_1_type1} {YYYY_1} г. по {DD_2} {MM_2_type1} {YYYY_2} г.
-11	{DD_1} {MM_1_type2} {YYYY_1} — {DD_2} {MM_2_type2} {YYYY_2}	{DD_1} {MM_1_type2} {YYYY_1} — {DD_2} {MM_2_type2} {YYYY_2}
-12	{MM_1_type1} {DD_1} at {hh_1}:{mm_1}	{DD_1} {MM_1_type1} в {hh_1}:{mm_1}
-13	{MM_1_type1} {DD_1} from {hh_1}:{mm_1} to {hh_2}:{mm_2}	{DD_1} {MM_1_type1} с {hh_1}:{mm_2} до {hh_2}:{mm_2}
-14	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_2} {MM_2_type1} {hh_2}:{mm_2}
-15	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_2} {MM_2_type1} {hh_2}:{mm_2}
-16	{DD_1}.{MM_1_type3} at {hh_1}:{mm_1}	{DD_1}.{MM_1_type3} в {hh_1}:{mm_1}
-17	From {MM_1_type3}/{DD_1} {hh_1}:{mm_1} to {MM_1_type3}/{DD_2} {hh_2}:{mm_2}	С {DD_1}.{MM_1} {hh_1}:{mm_1} по {DD_2}.{MM_2} {hh_2}:{mm_2}
+type	EN	RU	ES
+1	{MM_1_type1} {DD_1}, {YYYY_1}	{DD_1} {MM_1_type1} {YYYY_1} г.	{DD_1} de {MM_1_type1} de {YYYY_1}
+2	{DD_1} of {MM_1_type1}	{DD_1} {MM_1_type1}	{DD_1} de {MM_1_type1}
+3	{MM_1_type2} {DD_1}	{DD_1} {MM_1_type1}	la {DD_1} de {MM_1_type2}
+4	{MM_1_type1} {DD_1} to {DD_2}, {YYYY_1}	С {DD_1} по {DD_2} {MM_1_type1} {YYYY_1} г.	{MM_1_type1} {DD_1}-{DD_2},  {YYYY_1}
+5	From {MM_1_type1} {DD_1} to {MM_2_type1} {DD_2}, {YYYY_1}	С {DD_1} {MM_1_type1} по {DD_2} {MM_2_type1} {YYYY_1} г.	Del {DD_1} de {MM_1_type1} al {DD_2} de {MM_1_type1} de  {YYYY_1}
+6	{MM_1_type1} {DD_1} to {DD_2}, {YYYY_1}	С {DD_1} по {DD_2} {MM_1_type1} {YYYY_1} г.	Del {DD_1} al {DD_2} de {MM_1_type1}
+7	From {MM_1_type1} {DD_1} to {MM_2_type1} {DD_2}	С {DD_1} {MM_1_type1} по {DD_2} {MM_2_type1} {YYYY_1} г.	Del {DD_1} de {MM_2_type1} al {DD_2} de {MM_2_type1}
+8	{MM_1_type2}. {DD_1} — {MM_2_type2}. {DD_2}	{DD_1} {MM_1_type2} — {DD_2} {MM_2_type2}	{DD_1} {MM_1_type2} — {DD_2} {MM_2_type2}
+9	{DD_1}-{DD_2} {MM_1_type2}	{DD_1}-{DD_2} {MM_1_type2}	{DD_1}-{DD_2} {MM_1_type2}
+10	From {MM_1_type1} {DD_1}, {YYYY_1} to {MM_2_type1} {DD_2}, {YYYY_2}	С {DD_1} {MM_1_type1} {YYYY_1} г. по {DD_2} {MM_2_type1} {YYYY_2} г.	Del {DD_1} de {MM_1_type1} de  {YYYY_1} al {DD_2} de  {MM_2_type1} de {YYYY_2}
+11	{DD_1} {MM_1_type2} {YYYY_1} — {DD_2} {MM_2_type2} {YYYY_2}	{DD_1} {MM_1_type2} {YYYY_1} — {DD_2} {MM_2_type2} {YYYY_2}	{DD_1} de {MM_1_type2}.  {YYYY_1}- {DD_2} {MM_2_type2}  {YYYY_2}
+12	{MM_1_type1} {DD_1} at {hh_1}:{mm_1}	{DD_1} {MM_1_type1} в {hh_1}:{mm_1}	{DD_1} de {MM_1_type1} a las {hh_1}:{mm_1}
+13	{MM_1_type1} {DD_1} from {hh_1}:{mm_1} to {hh_2}:{mm_2}	{DD_1} {MM_1_type1} с {hh_1}:{mm_2} до {hh_2}:{mm_2}	{DD_1} de {MM_1_type1} del {hh_1}:{mm_1} al {hh_2}:{mm_2}
+14	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_2} {MM_2_type1} {hh_2}:{mm_2}	Del {DD_1} {MM_1_type1} {hh_1}:{mm_1} al 12 {MM_1_type1} {hh_2}:{mm_2}
+15	From {MM_1_type1} {DD_1}, {hh_1}:{mm_1} to {MM_2_type1} {DD_2}, {hh_2}:{mm_2}	С {DD_1} {MM_1_type1} {hh_1}:{mm_1} по {DD_2} {MM_2_type1} {hh_2}:{mm_2}	Del {DD_1} de {MM_1_type1} de {hh_1}:{mm_1} al  {DD_2} de {MM_1_type1} de {hh_2}:{mm_2}
+16	{DD_1}.{MM_1_type3} at {hh_1}:{mm_1}	{DD_1}.{MM_1_type3} в {hh_1}:{mm_1}	{DD_1},  {MM_1_type1} en {hh_1}:{mm_1}
+17	From {MM_1_type3}/{DD_1} {hh_1}:{mm_1} to {MM_1_type3}/{DD_2} {hh_2}:{mm_2}	С {DD_1}.{MM_1} {hh_1}:{mm_1} по {DD_2}.{MM_2} {hh_2}:{mm_2}	{MM_1_type1} 28, {DD_1} {hh_1}:{mm_1} hasta {DD_2},{MM_2_type1} {hh_2}:{mm_2}
